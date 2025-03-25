@@ -9,5 +9,5 @@ Welcome to my portfolio! This repository showcases my work in **Power BI, SQL, a
 - **Python** – Data analysis & visualization  
 
 📍 **Location:** Bhubaneswar
-📎 **LinkedIn:** [Click Here](https://www.linkedin.com/in/subhransu-sekhar-biswal-332b93218/)  
+📎 **LinkedIn:** [👉 Subhransu Sekhar Biswal](https://www.linkedin.com/in/subhransu-sekhar-biswal-332b93218/)  
 
