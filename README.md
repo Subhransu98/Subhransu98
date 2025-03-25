@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there, I'm Subhransu Sekhar Biswal !  
 
-<!--
-**Subhransu98/Subhransu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my portfolio! This repository showcases my work in **Power BI, SQL, and data analytics**, featuring projects that highlight my skills in **dashboarding, data visualization, and business insights**.  
 
-Here are some ideas to get you started:
+## 🛠 Skills & Tools  
+- **Power BI** – Dashboard design, DAX, data modeling  
+- **SQL** – Query optimization, database management  
+- **Excel** – Pivot tables, data cleaning  
+- **Python** – Data analysis & visualization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 **Location:** Bhubaneswar
+📎 **LinkedIn:** [Neelesh-Chaturvedi](https://www.linkedin.com/in/subhransu-sekhar-biswal-332b93218/)  
+
