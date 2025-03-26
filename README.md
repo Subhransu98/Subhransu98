@@ -7,10 +7,10 @@ Welcome to my portfolio! This repository showcases my work in **Power BI, SQL, a
 - **SQL** – Query optimization, database management  
 - **Excel** – Pivot tables, data cleaning  
 - **Python** – Data analysis & visualization
+- 
+📍 **Location:** Bhubaneswar
 
-## Connect with Me  
 💛 **Connenct with Me**  
 ---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhransu-sekhar-biswal-332b93218/)   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhransu914@gmail.com)  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subhransu-sekhar-biswal-332b93218/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:subhransu914@gmail.com)  
-📍 **Location:** Bhubaneswar
