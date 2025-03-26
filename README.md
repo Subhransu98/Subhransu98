@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository showcases my work in **Power BI, SQL, a
 - **SQL** – Query optimization, database management  
 - **Excel** – Pivot tables, data cleaning  
 - **Python** – Data analysis & visualization
-- 
+  
 📍 **Location:** Bhubaneswar
 
 💛 **Connenct with Me**  
